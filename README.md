@@ -1,1 +1,1 @@
-# wye-python
+# wye-compile-python
